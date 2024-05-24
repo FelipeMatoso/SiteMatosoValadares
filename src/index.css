@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-color: whitesmoke;
+}
+
+.background-image {
+  background-image: url('./components/images/_46A8285.jpg');
+  background-size: cover;
+  background-position: top;
+}
+
+.background-image2 {
+  background-image: url('./components/images/Fundo01.jpg');
+  background-size: cover;
+  background-position: center;
+}
